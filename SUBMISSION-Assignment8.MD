@@ -16,11 +16,11 @@ DOCKER
 DOCKER COMPOSE - MYSQL ONLY
 5 pts The output from the docker-compose up command.
 
-![Screen Capture #3](figures-Assignment8/DOCKER-COMPOSE_screenshot1a.PNG)
+![Screen Capture #3](figures-Assignment8/DOCKER-COMPOSE__screenshot1a.PNG)
 
-![Screen Capture #4](figures-Assignment8/DOCKER-COMPOSE_screenshot1b.PNG)
+![Screen Capture #4](figures-Assignment8/DOCKER-COMPOSE__screenshot1b.PNG)
 
-![Screen Capture #5](figures-Assignment8/DOCKER-COMPOSE_screenshot1c.PNG)
+![Screen Capture #5](figures-Assignment8/DOCKER-COMPOSE__screenshot1c.PNG)
 
 
 5 pts Your browser accessing the “Veterinarians” page of the website from your local container when you run the application from the host system.
