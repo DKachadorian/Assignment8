@@ -43,7 +43,7 @@ to this file rather than a screen capture.
 
 5 pts Your updated application-mysql.properties file containing the URL change for
 the database server. Please provide a link to this file rather than a screen capture.
-(https://github.com/DKachadorian/assignment8/blob/main/application-mysql.propertiesl)
+(https://github.com/DKachadorian/assignment8/blob/main/application-mysql.properties)
 
 5 pts The output from the docker-compose up command.
 
