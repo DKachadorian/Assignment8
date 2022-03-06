@@ -1,6 +1,6 @@
 DOCKER
 5 pts Your dockerfile. Please provide a link to this file rather than a screen capture.
-(/Assignment8/Dockerfile)
+(https://github.com/DKachadorian/assignment8/blob/main/Dockerfile)
 
 
 5 pts Your running docker instance as shown by a ps command.
