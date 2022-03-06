@@ -49,10 +49,10 @@ the database server. Please provide a link to this file rather than a screen cap
 
 5 pts The output from the docker-compose up command.
 
-
+![Screen Capture #8](figures-Assignment8/q3.PNG)
 
 5 pts Your browser accessing the “Veterinarians” page of the website from your local container.
-
+![Screen Capture #9](figures-Assignment8/q4.PNG)
 
 
 
