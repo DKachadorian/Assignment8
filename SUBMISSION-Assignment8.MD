@@ -39,13 +39,11 @@ DOCKER COMPOSE - APP SERVER AND MYSQL
 5 pts Your updated docker-compose.yml file containing the application server, built from
 your local Dockerfile, and the existing MySQL configuration. Please provide a link
 to this file rather than a screen capture.
-
-(Assignment8/docker-compose.yml)
+(https://github.com/DKachadorian/assignment8/blob/main/docker-compose.yml)
 
 5 pts Your updated application-mysql.properties file containing the URL change for
 the database server. Please provide a link to this file rather than a screen capture.
-
-(Assignment8/tree/main/src/main/resources/application-mysql.properties)
+(https://github.com/DKachadorian/assignment8/blob/main/application-mysql.propertiesl)
 
 5 pts The output from the docker-compose up command.
 
