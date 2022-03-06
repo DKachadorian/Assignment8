@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+!/usr/bin/env bash
 # update all existing packages
 sudo yum -y update
 # download openjdk
