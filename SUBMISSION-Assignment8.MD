@@ -31,7 +31,7 @@ DOCKER COMPOSE - MYSQL ONLY
 5 pts A section of the stack trace generated when you attempt to run the application
 container that has been updated to use MySQL.
 
-![Screen Capture #7](figures-Assignment8/DOCKER-COMPOSE_Q3.PNG)
+![Screen Capture #7](figures-Assignment8/DOCKER-COMPOSE-Q3.PNG)
 
 
 DOCKER COMPOSE - APP SERVER AND MYSQL
